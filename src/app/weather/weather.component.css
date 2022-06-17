@@ -1,0 +1,23 @@
+section{
+  background-image: url(../../assets/images/crepuscular.jpg);   
+  background-size: cover; 
+
+}
+
+#wcol{
+    color: rgb(35, 35, 51);
+    font-family: 'DM Serif Display', serif;
+    font-weight: 200;
+    font-size: 45px;
+    
+}
+
+h2{
+    margin-left: 823px;
+}
+
+.clear{
+    background-color: rgb(168, 154, 180);
+    border-radius: 10px;
+    border-color: cornflowerblue;
+}
